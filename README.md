@@ -41,12 +41,6 @@ I build in public because the best way to learn is to ship.
  
 ---
  
-## GitHub Activity
- 
-[![GitHub Contribution Graph](https://ghchart.rshah.org/luigifrascarelli)](https://github.com/luigifrascarelli)
- 
----
- 
 ## Connect
  
 * 💼 [LinkedIn](https://linkedin.com/in/luigifrascarelli)
