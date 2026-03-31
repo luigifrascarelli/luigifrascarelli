@@ -27,7 +27,7 @@
  
 ## What I'm Focused On
  
-* Designing AI governance infrastructure for enterprise SE organizations
+* Designing demo & AI governance infrastructure for enterprise SE organizations
 * Building multi-agent pipelines that automate real business workflows
 * Applying the Modern Samurai Code — discipline, iteration, and purpose — to everything I build
  
