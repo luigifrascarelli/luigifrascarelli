@@ -17,7 +17,7 @@
  
 * 🤖 **[Bloom Travel Agents](https://github.com/luigifrascarelli/bloom-travel-agents)** — Multi-agent AI pipeline (Scout → Strategist → Writers) for automated travel content using Claude API, Python, and GitHub Actions.
 * 💸 **[BluBoomerang](https://github.com/luigifrascarelli/bluboomerang-app)** — AI spend management app. Track, optimize, and govern your AI tool investment across teams.
-* ⚔️ **[Modern Samurai Code](https://github.com/luigifrascarelli/personal-modern-samurai-code)** — Website and webapp built around a personal philosophy framework for discipline, purpose, and continuous improvement.
+* ⚔️ **[Modern Samurai Code](https://www.modernsamuraicode.com)** — Website and webapp built around a personal philosophy framework for discipline, purpose, and continuous improvement.
 * 🥋 **[BJJ Journal](https://github.com/luigifrascarelli/bjj-journal-app)** — Mobile app for logging Brazilian Jiu Jitsu training sessions, techniques, and progress over time.
 * 💰 **[Budget Tracker](https://github.com/luigifrascarelli/personal-budget-tracker)** — Personal finance tracking app.
 * 🧠 **[AI Demo Strategy](https://github.com/luigifrascarelli/strategy-demo-ai-framework)** — Public artifacts from my demo & AI strategy framework: vendor scoring models, SE survey design, and AI tooling governance.
