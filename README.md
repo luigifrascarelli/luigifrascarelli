@@ -1,6 +1,6 @@
 # It's a me, Luigi 🌟
  
-📍 **Orlando, FL** | 🤖 **Principal Demo & AI Strategist** | 🥋 **Brazilian Jiu Jitsu** | ☁️ **Salesforce Solutions CoE**
+🤖 **Principal Demo & AI Strategist** | 🥋 **Brazilian Jiu Jitsu** | ☁️ **Salesforce Solutions CoE**
  
 [![AI Strategy](https://img.shields.io/badge/-AI%20Strategy-111111?style=flat-square&logo=openai&logoColor=white)](https://github.com/luigifrascarelli)
 [![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)](https://github.com/luigifrascarelli)
