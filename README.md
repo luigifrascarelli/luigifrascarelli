@@ -1,4 +1,4 @@
-# It's a me, Luigi 🟢
+# It's a me, Luigi (https://imgproxy.attic.sh/insecure/f:png/plain/https://attic.sh/wifjkcmt0f2jh7c6u3bug3ookjpp)
  
 📍 **Orlando, FL** | 🤖 **Principal Demo & AI Strategist** | 🥋 **Brazilian Jiu Jitsu** | ☁️ **Salesforce Solutions CoE**
  
